@@ -15,3 +15,10 @@
   <a href="https://github.com/Ars030203/RVisuals-20-21/tree/main/Housing%20in%20Tehran">Housing in Tehran</a> •
   <a href="https://github.com/Ars030203/RVisuals-20-21/tree/main/TMP3C">TMP3C</a>
 </p>
+
+<br>
+<br>
+
+<p align="center">
+And I used to put some notes about my perceptions about these visualizations in this <a href="https://t.me/AGJC030203">Telegram channel</a>
+</p>
